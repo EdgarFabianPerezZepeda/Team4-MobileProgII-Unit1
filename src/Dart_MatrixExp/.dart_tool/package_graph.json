@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "dart_matrix_exp"
+  ],
+  "packages": [
+    {
+      "name": "dart_matrix_exp",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": [
+        "lints"
+      ]
+    },
+    {
+      "name": "lints",
+      "version": "3.0.0",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}

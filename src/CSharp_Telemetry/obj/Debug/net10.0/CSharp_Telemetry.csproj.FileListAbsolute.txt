@@ -1,0 +1,14 @@
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\bin\Debug\net10.0\CSharp_Telemetry.exe
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\bin\Debug\net10.0\CSharp_Telemetry.deps.json
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\bin\Debug\net10.0\CSharp_Telemetry.runtimeconfig.json
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\bin\Debug\net10.0\CSharp_Telemetry.dll
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\bin\Debug\net10.0\CSharp_Telemetry.pdb
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\CSharp_Telemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\CSharp_Telemetry.AssemblyInfoInputs.cache
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\CSharp_Telemetry.AssemblyInfo.cs
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\CSharp_Telemetry.csproj.CoreCompileInputs.cache
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\CSharp_Telemetry.dll
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\refint\CSharp_Telemetry.dll
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\CSharp_Telemetry.pdb
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\CSharp_Telemetry.genruntimeconfig.cache
+C:\Users\edfab\Documents\Team4-MobileProgII-Unit1\src\CSharp_Telemetry\obj\Debug\net10.0\ref\CSharp_Telemetry.dll

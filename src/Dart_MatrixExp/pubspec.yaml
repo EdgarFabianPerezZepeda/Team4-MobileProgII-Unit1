@@ -1,0 +1,11 @@
+name: dart_matrix_exp
+description: Exponenciacion logaritmica de matrices para la Unidad 1 de Programacion Movil II.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+
+dev_dependencies:
+  lints: ^3.0.0
